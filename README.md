@@ -3,7 +3,7 @@
 <a href="mailto:lama.sherb@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-eLL)](https://github.com/M-eLL/github-readme-stats)
+<br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemlooma)](https://github.com/lemlooma/github-readme-stats)
 
 
 ## Hi, I'm Lema 👋
