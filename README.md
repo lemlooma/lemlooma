@@ -17,8 +17,8 @@
 - 🤺 Pro fencer
 - 🤓 Major philosophy nerd
 - 🎨 Painting 
-- 🎶 Music runs in the blood
-- 🌱 Nature enthusiast
+- 🎶 Music in the blood
+- 🌎 Traveler 
 
 ### Toolbelt In Progress
 
