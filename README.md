@@ -9,9 +9,9 @@
 - 🤝 Always looking to collaborate with other awesome developers
 
 <br/><br/>Fun facts:
-- 🤺 pro fencer
-- 🤓 philosophy nerd 
-- 🎨 painting is a passion
+- 🤺 Pro fencer
+- 🤓 Major philosophy nerd
+- 🎨 Painting is a passion
 - 🌱 Nature enthusiast
 
 ### Toolbelt
