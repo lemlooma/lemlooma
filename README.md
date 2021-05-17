@@ -12,6 +12,7 @@
 - 🔏 Currently attending App Academy to become a Fullstack Software Engineer!
 - 🤔 Exploring different ways to implement my coding skills into my own personal passions
 - 🤝 Always looking to collaborate with other awesome developers
+- 💻 Always seeking to learn new and efficent ways to betetr my programming skills
 
 <br/><br/>Lem facts:
 - 🤺 Pro fencer
