@@ -16,7 +16,7 @@
 <br/><br/>Lem facts:
 - 🤺 Pro fencer
 - 🤓 Philosophy nerd
-- 🎨 Painting 
+- 🎨 Painting = passion 
 - 🎶 Music in the blood
 - 🌎 Traveler 
 
