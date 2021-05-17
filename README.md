@@ -17,6 +17,7 @@
 - 🤺 Pro fencer
 - 🤓 Major philosophy nerd
 - 🎨 Painting 
+- 🎶 Music runs in the blood
 - 🌱 Nature enthusiast
 
 ### Toolbelt
