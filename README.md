@@ -1,4 +1,10 @@
-# Lem
+<p>
+<a href="https://www.linkedin.com/in/lema-el-sherbiny-b41340193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:lama.sherb@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+<br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-eLL)](https://github.com/M-eLL/github-readme-stats)
+
 
 ## Hi, I'm Lema 👋
 
@@ -8,17 +14,18 @@
 - 🤔 Exploring different ways to implement my coding skills into my own personal passions
 - 🤝 Always looking to collaborate with other awesome developers
 
+
 <br/><br/>Fun facts:
 - 🤺 Pro fencer
 - 🤓 Major philosophy nerd
-- 🎨 Painting is a passion
+- 🎨 Painting 
 - 🌱 Nature enthusiast
 
 ### Toolbelt
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
-<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku" /></a>
+
 <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express.js-000000?logo=Express" /></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL" /></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=333333" /></a>
