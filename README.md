@@ -13,7 +13,7 @@
 - 🤔 Exploring different ways to implement my coding skills into my own personal passions
 - 🤝 Always looking to collaborate with other awesome developers
 
-<br/><br/>Fun facts:
+<br/><br/>Lem facts:
 - 🤺 Pro fencer
 - 🤓 Major philosophy nerd
 - 🎨 Painting 
