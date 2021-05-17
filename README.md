@@ -15,7 +15,7 @@
 - 💻 Always seeking to learn new and efficent ways to betetr my programming skills
 <br/><br/>Lem facts:
 - 🤺 Pro fencer
-- 🤓 Major philosophy nerd
+- 🤓 Philosophy nerd
 - 🎨 Painting 
 - 🎶 Music in the blood
 - 🌎 Traveler 
