@@ -5,12 +5,12 @@
 
 <br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemlooma)](https://github.com/lemlooma/github-readme-stats)
 
-## Ello, I'm Lema 👋
+## Ello, I'm Lema 👋🏽
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
 - 🔏 Currently attending App Academy to become a Fullstack Software Engineer!
-- 🤔 Exploring different ways to implement my coding skills into my own personal passions
+- 🧐 Exploring different ways to implement my coding skills into my own personal passions
 - 🤝 Always looking to collaborate with other awesome developers
 - 💻 Always seeking to learn new and efficent ways to betetr my programming skills
 <br/><br/>Lem facts:
