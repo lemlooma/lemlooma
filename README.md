@@ -4,7 +4,6 @@
 </p>
 
 <br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemlooma)](https://github.com/lemlooma/github-readme-stats)
-
 ## Ello, I'm Lema 👋🏽
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
@@ -21,6 +20,7 @@
 - 🌎 Traveler 
 - 
 ### Toolbelt In Progress
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
 
