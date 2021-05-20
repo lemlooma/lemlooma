@@ -14,7 +14,7 @@
 - 🤝 Always looking to collaborate with other awesome developers
 - 💻 Always seeking to learn new and efficent ways to betetr my programming skills
 <br/><br/>Lem facts:
-- 🤺 Pro fencer
+- 🤺 Fencing = passion
 - 🤓 Philosophy nerd
 - 🎨 Painting = passion 
 - 🎶 Music in the blood
