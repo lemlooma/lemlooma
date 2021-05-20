@@ -7,6 +7,7 @@
 
 ## Ello, I'm Lema 👋🏽 
 
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
 - 🔏 Currently attending App Academy to become a Fullstack Software Engineer!
