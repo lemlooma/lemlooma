@@ -18,7 +18,7 @@
 - 🤓 Philosophy nerd
 - 🎨 Painting = passion 
 - 🎶 Music in the blood
-- 🌎 Traveler 
+- 🌎 Traveler
 
 ### Toolbelts In Progress: 
 
