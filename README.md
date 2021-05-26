@@ -20,7 +20,6 @@
 - 🎶 Music in the blood
 - 🌎 Traveler
 
-
 ### Toolbelts In Progress:
 
 
