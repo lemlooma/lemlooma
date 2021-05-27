@@ -13,6 +13,7 @@
 - 🧐 Exploring different ways to implement my coding skills into my own personal passions
 - 🤝 Always looking to collaborate with other awesome developers
 - 💻 Always seeking to learn new and efficent ways to better my programming skills
+
 <br/><br/>Lem facts:
 - 🤺 Fencing = passion
 - 🤓 Philosophy nerd
