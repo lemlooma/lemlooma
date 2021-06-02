@@ -18,7 +18,7 @@
 - 🎨 Painting = passion 
 - 🤓 Philosophy/Psychology nerd
 - 🎶 Music streams through my veins 
-- 🌎 World Adventurer  
+- 🌎 World Adventurer    
 
 ### Toolbelts In Progress:   
 
