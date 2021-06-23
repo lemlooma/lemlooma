@@ -6,19 +6,18 @@
 <br/>[![Lema's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemlooma)](https://github.com/lemlooma/github-readme-stats)
 
 ## Ello, I'm Lema 👋🏽                                                                                                      
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
-- 🔏 Currently attending App Academy to become a Fullstack Software Engineer!
-- 🧐 Exploring different ways to implement my coding skills into my own personal passions
-- 🤝 Always looking to collaborate with other awesome developers
-- 💻 Always seeking to learn new and efficent ways to better my programming skills
+- 🔏  Currently attending App Academy to become a Fullstack Software Engineer!
+- 🧐  Exploring ways to implement my coding skills into my own personal passions
+- 🤝  Always looking to collaborate with other awesome developers
+- 💻  Always seeking to learn new and efficent ways to better my programming skills
 <br/><br/>Lem facts:
-- 🤺 Fencing = passion
-- 🎨 Painting = passion 
-- 🤓 Philosophy/Psychology nerd
-- 🎶 Music streams through my veins 
-- 🌎 World Adventurer    
+- 🤺  Fencing = passion
+- 🎨  Painting = passion 
+- 🤓  Philosophy/Psychology nerd
+- 🎶  Music streams through my veins 
+- 🌎  World Adventurer    
 
 ### Toolbelts In Progress:      
 
