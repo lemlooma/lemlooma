@@ -32,3 +32,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemlooma&theme=vue&show_icons=true" alt="lemlooma" /></p>
+
