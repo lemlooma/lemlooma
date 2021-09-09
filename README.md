@@ -3,11 +3,11 @@
 <a href="mailto:lama.sherb@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p> 
  
-## Ello, I'm Lema 👋🏽                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+## Ello, I'm Lema 👋🏽                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
-- 🔏  Currently attending App Academy to become a Fullstack Software Engineer!
-- 🧐  Exploring ways to implement my coding skills into my own personal passions
+- 🔏  I’m currently working on [KingPin](https://king-pin-app.herokuapp.com) a project management platform.
+- 🧐  Exploring new ways to implement my coding skills into my own personal passions
 - 🤝  Always looking to collaborate with other awesome developers
 - 💻  Always seeking to learn new and efficent ways to better my programming skills
 <br/><br/>Lem facts:
