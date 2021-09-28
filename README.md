@@ -5,7 +5,6 @@
  
 ## Ello, I'm Lema 👋 
 
-I'm a web developer looking to contribute to open source projects that assist the community. I work with ReactJS, Flask, Express frameworks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
 - 🔏  I’m currently working on [KingPin](https://king-pin-app.herokuapp.com) a project management platform.
