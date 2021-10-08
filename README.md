@@ -15,7 +15,6 @@
 - 🤺  Fencing = passion
 - 🎨  Painting = passion 
 - 🤓  Philosophy/Psychology nerd
-- 🎶  Music streams through my veins 
 - 🌎  World Adventurer    
 
 ### Toolbelts:         
