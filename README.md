@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
-- 🔏  I’m currently working on new features for [KingPin](https://king-pin-app.herokuapp.com) a project management platform.
+- 🔏  I’m currently working on new features for a project management platform.
 - 🧐  Exploring new ways to implement my coding skills into my own personal passions
 - 🤝  Always looking to collaborate with other awesome developers
 - 💻  Always seeking to learn new and efficent ways to better my programming skills
